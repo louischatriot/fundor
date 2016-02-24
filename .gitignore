@@ -35,3 +35,5 @@ node_modules
 *~
 *.swo
 *.swp
+
+data
